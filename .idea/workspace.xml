@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e569f118-d527-4b8f-82e0-2bf5e829949c" name="Default Changelist" comment="新增c文件" />
+    <list default="true" id="e569f118-d527-4b8f-82e0-2bf5e829949c" name="Default Changelist" comment="新增c文件">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,8 +16,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/a.js">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/c.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -33,12 +39,13 @@
       <list>
         <option value="$PROJECT_DIR$/b.js" />
         <option value="$PROJECT_DIR$/c.js" />
+        <option value="$PROJECT_DIR$/a.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="429" />
-    <option name="y" value="36" />
+    <option name="x" value="391" />
+    <option name="y" value="15" />
     <option name="width" value="1400" />
     <option name="height" value="926" />
   </component>
@@ -48,7 +55,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -60,6 +66,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -92,7 +99,8 @@
       <workItem from="1550826068409" duration="1746000" />
       <workItem from="1550828124028" duration="241000" />
       <workItem from="1551056906286" duration="4930000" />
-      <workItem from="1551064471613" duration="274000" />
+      <workItem from="1551064471613" duration="4434000" />
+      <workItem from="1551074009509" duration="793000" />
     </task>
     <task id="LOCAL-00001" summary="c.js新增测试语句">
       <created>1551063483737</created>
@@ -105,14 +113,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7191000" />
+    <option name="totallyTimeSpent" value="12144000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="429" y="36" width="1400" height="926" extended-state="0" />
-    <editor active="true" />
+    <frame x="340" y="46" width="1400" height="926" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49624062" visible="true" weight="0.2496329" />
-      <window_info id="Structure" order="1" sideWeight="0.5037594" side_tool="true" visible="true" weight="0.2496329" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4943609" visible="true" weight="0.2496329" />
+      <window_info id="Structure" order="1" sideWeight="0.5056391" side_tool="true" visible="true" weight="0.2496329" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -191,15 +198,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/a.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/c.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a.js">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
